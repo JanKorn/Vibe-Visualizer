@@ -1,5 +1,7 @@
 # Vibe Visualizer
 
+[Online Site (Github Pages hosted)](https://jankorn.github.io/Vibe-Visualizer/)
+
 A browser-based real-time **music visualizer**. It captures the audio of a browser tab or your entire screen and renders reactive, sound-driven animations on a fullscreen canvas.
 
 Pure client-side project: vanilla JavaScript (ES modules), the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) and the HTML5 Canvas 2D API — **no frameworks, no build step, no dependencies**.
