@@ -81,6 +81,6 @@ Requires a modern Chromium-based browser (Chrome, Edge). Audio capture via `getD
 
 ## License
 
-This project is licensed under the **GNU General Public License v3.0** — see [LICENSE](LICENSE).
+This project is licensed under the **GNU General Public License v3.0** — see [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html).
 
 © 2026 Jan Kornberger
